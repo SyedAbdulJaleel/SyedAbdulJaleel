@@ -6,7 +6,8 @@
 
 ## Hi there 👋, I'm Syed Abdul Jaleel
 
-- Energetic and data-driven recent graduate with a passion for al things in data. My education in B Tech Computer Science & Engineering which is specialized in Data Science and Big Data Analytics has equipped me with a solid foundation in data analysis, machine learning, and programming. I'm eager to embark on my journey as a Data Scientist and contribute my enthusiasm, problem-solving skills, and fresh perspectives to cutting-edge projects.
+- Energetic and data-driven recent graduate with a passion for al things in data.
+- My education in B Tech Computer Science & Engineering which is specialized in Data Science and Big Data Analytics has equipped me with a solid foundation in data analysis, machine learning, and programming. I'm eager to embark on my journey as a Data Scientist and contribute my enthusiasm, problem-solving skills, and fresh perspectives to cutting-edge projects.
 
 
 
