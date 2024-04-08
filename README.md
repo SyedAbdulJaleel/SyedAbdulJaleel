@@ -19,7 +19,12 @@
 - <a href="mailto:syed.waleed20@gmail.com"><img height="15" src="https://github.com/SyedAbdulJaleel/SyedAbdulJaleel/blob/9ac16f6d580105a15146054cc18eebf60be99787/gmail.jpg" style="max-width: 100%; margin-left: 5px; vertical-align: middle;"></a> syed.waleed20@gmail.com
 
 ----------------
-
+|    Project Link    |    Area of Analysis    |    Project Description    |    Features    |
+|    ---    |    ---   |    ---    |    ---    |
+| <a href = "https://github.com/SyedAbdulJaleel/Py_FoodAnalytics.git"> Python_Foodhub_Analytics </a>  |   Data Analysis   |   Conducted comprehensive analysis on food orders data to derive insights on popular cuisines, restaurant ratings, and delivery times, informing business strategies and improving customer experience   |   Data Analysis, Customer Experience Improvement, Operations & Performance Improvement
+| <a href = "https://github.com/SyedAbdulJaleel/BI_HrAnalytics.git"> BI_HR_Analytics_Dashboard </a>  |   Data Visualization   |   Designed Power BI dashboard to provide real-time insights on employee performance, turnover rate, and recruitment progress   |   Performance Management, Employee Demographics, Key HR Metrics, Training and Development   
+| <a href = "https://github.com/SyedAbdulJaleel/SQL-BI_SalesReporting.git"> SQL_BI_SalesReporting_Dashboard </a>   |   SQL Reporting & Analysis   |   A business intelligence (BI) solution aimed at providing comprehensive sales reporting and analysis capabilities to an organization using SQL | Sales Overview, Customization and Exporting, Sales Team Performance, Product Analysis, Geographic Analysis
+| <a href = "https://github.com/SyedAbdulJaleel/SQL_Comp_Sales.git"> SQL_Customer&Sales_Analysis </a>   |   Performance Analysis   |   Performed sales analysis on company's data using SQL, resulting in insights that informed marketing strategies and improved revenue performance   | Data Modeling, Customer Analytics, Sales Performance Analysis, KPIs Enhancement  
 
 <!---
 SyedAbdulJaleel/SyedAbdulJaleel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
