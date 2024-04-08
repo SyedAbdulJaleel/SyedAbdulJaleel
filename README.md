@@ -1,7 +1,7 @@
 
 <animated-image data-catalyst="" style="float: right; width: 400px;">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/SyedAbdulJaleel/SyedAbdulJaleel/blob/workgif.gif?raw=true" data-target="animated-image.originalLink">
-    <img align="right" alt="GIF" src="https://github.com/SyedAbdulJaleel/SyedAbdulJaleel/blob/workgif.gif?raw=true" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <a target="_blank" rel="noopener noreferrer" href="[https://github.com/SyedAbdulJaleel/SyedAbdulJaleel/blob/workgif.gif](https://github.com/SyedAbdulJaleel/SyedAbdulJaleel/blob/7aeb77502db422db82a1b6ef40e3defdd17bab02/workgif.gif)?raw=true" data-target="animated-image.originalLink">
+    <img align="right" alt="GIF" src="https://github.com/SyedAbdulJaleel/SyedAbdulJaleel/blob/7aeb77502db422db82a1b6ef40e3defdd17bab02/workgif.gif" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   </a>
 </animated-image>
 
