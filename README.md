@@ -9,6 +9,16 @@
 
 - Energetic and data-driven recent graduate with a passion for al things in data.
 - My education in B Tech Computer Science & Engineering which is specialized in Data Science and Big Data Analytics has equipped me with a solid foundation in data analysis, machine learning, and programming. I'm eager to embark on my journey as a Data Scientist and contribute my enthusiasm, problem-solving skills, and fresh perspectives to cutting-edge projects.
+- Languages and Tools: <br><br>
+<a href="#"><img height="20" src="https://github.com/SyedAbdulJaleel/SyedAbdulJaleel/blob/9ac16f6d580105a15146054cc18eebf60be99787/excel.jpg" style="max-width: 100%;"></a>
+<a href="#"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width: 100%;"></a>
+<a href="#"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"></a>
+<a href="#"><img height="20" src="https://github.com/SyedAbdulJaleel/SyedAbdulJaleel/blob/9ac16f6d580105a15146054cc18eebf60be99787/powerbi.png" style="max-width: 100%;"></a>
+<a href="#"><img height="20" src="https://github.com/SyedAbdulJaleel/SyedAbdulJaleel/blob/9ac16f6d580105a15146054cc18eebf60be99787/tableu.png" style="max-width: 100%;"></a>
+
+- <a href="mailto:syed.waleed20@gmail.com"><img height="15" src="https://github.com/SyedAbdulJaleel/SyedAbdulJaleel/blob/9ac16f6d580105a15146054cc18eebf60be99787/gmail.jpg" style="max-width: 100%; margin-left: 5px; vertical-align: middle;"></a> syed.waleed20@gmail.com
+
+----------------
 
 
 <!---
